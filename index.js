@@ -13,4 +13,4 @@ newID = parseInt(`10000000${oldID}`, 10);
 ageIsValid = Number.isInteger(currentAge);
 randomNumber = Math.random()*20;
 randomInteger = Math.floor(randomNumber);
-randomUserID = parseInt(`10000000${randomInteger}`);
+randomUserID = parseInt(`100000000${randomInteger}`);
