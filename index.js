@@ -8,4 +8,4 @@ You should NOT try to redefine any of the above variables.
 
 // Write your code below this line!
 
-ageIsValid = !Number.isInteger(currentAge)
+ageIsValid = Number.isInteger(currentAge)
