@@ -12,4 +12,4 @@ You should NOT try to redefine any of the above variables.
 newID = parseInt(`10000000${oldID}`, 10);
 ageIsValid = Number.isInteger(currentAge);
 randomNumber = Math.floor(Math.random()*20);
-randomInteger 
+randomInteger = Math.floor(Math.random()*20);
